@@ -1,37 +1,42 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "A propos"
+description: "Je m’appelle Romain Pittet. Je suis un spécialiste de la rédaction web, SEO et UX depuis presque 25 ans. Voici quelques mots sur mon parcours et mon expérience."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+**Je m’appelle Romain Pittet, mais ça vous le savez déjà. Je suis un spécialiste de la rédaction web, SEO et UX depuis presque 25 ans. Voici quelques mots sur mon parcours et mon expérience.**
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+![J'écris n'importe où](/src/assets/images/romain-redaction-scooter.jpg)
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Depuis tout petit, j’aime raconter des histoires. Ça m’a poussé à vouloir devenir avocat. Après ses études de droit, j’ai pourtant réalisé que ce métier n’est pas assez rigolo. Passionné par l’écriture, les gadgets électroniques et tout ce qui est visuel, de la BD à la photo en passant par les jeux vidéo, j’ai découvert en même temps **la communication et le web en 2002**, en rejoignant le Groupe GCOM.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Parmi mes premiers jobs: recenser les sites web francophones consacrés à la BD pour le défunt annuaire Manitoo BD. **Rédiger des contenus** pour les sites de Blancpain, Nestlé Baby Milk ou encore la BCV. 
 
-## Features
+En près de 25 ans, j’ai écrit, réécrit ou optimisé les textes de **centaines de sites web de Suisse romande**. Et parfois au-delà! J’ai aussi rédigé des contenus pour des blogs, des newsletters et des publications sur les réseaux sociaux. 
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+J’ai **formé plusieurs centaines de personnes** à la rédaction web au SAWI, au CPI, à la HE-Arc et auprès d’entreprises et instiutions publiques en Suisse romande.
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Quelques références plus ou moins récentes
 
-and so much more.
+### Articles de blog
 
-## Show your support
+[Imposition individuelle des couples mariés: le choix d’une société qui vit avec son temps](https://prysm.ch/actualite/imposition-individuelle-des-couples-maries/)
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+[«Une migration complexe réalisée très rapidement» - PulseUp](https://www.pulsemedica.ch/blog/une-migration-complexe-realisee-tres-rapidement/)
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+[Nouvelle salle d’arts martiaux à Montreux](https://www.socol.ch/2024/09/11/nouvelle-salle-darts-martiaux-a-montreux/)
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+[Des signaux encourageants pour l'éolien en Suisse romande](https://gree-suisse.ch/des-signaux-encourageants-pour-le-developpement-eolien-en-suisse-romande/)
 
-Kyay zuu! 🙏🏼
+[La com n’est pas un métier](https://romainpittet.ch/2026/04/10/la-com-nest-pas-un-metier/)
+
+### Contenus de sites internet
+
+[Accueil](https://prysm.ch/)
+
+[Médecine Esthétique à Yverdon - Dre Dorota Teterycz](https://dt-esthetique.ch/)
+
+[Scierie Perisset SA l'industrie du bois à Ursy](https://scierie-perisset.ch/)
+
+[Commune de Lavigny](http://lavigny.ch/)
+
+[Novae Restauration](https://novae.ch/)

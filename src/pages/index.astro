@@ -35,38 +35,101 @@ const homePath = getRelativeLocaleUrl(locale, "");
   >
     <section id="hero" class="border-border border-b pt-8 pb-6">
       <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Mingalaba
+        Ecriture web, SEO et UX
       </h1>
-      <a
-        target="_blank"
-        href={getRelativeLocaleUrl(locale, "rss.xml")}
-        class="inline-block"
-        aria-label="RSS Feed"
-        title="RSS Feed"
-      >
-        <IconRss
-          width={20}
-          height={20}
-          class="stroke-accent scale-125 stroke-3 rtl:-rotate-90"
-        />
-        <span class="sr-only">RSS Feed</span>
-      </a>
 
-      <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+      <p class="mt-6 text-xl leading-relaxed sm:text-2xl">
+        Je suis Romain Pittet. Un spécialiste de l'écriture web, SEO et UX
+        qui vit à Lausanne, en Suisse romande.
       </p>
+
+     <p class="mt-4">
+        Un spécialiste de l'écriture web en Suisse romande? Oui, je rédige des
+        textes pour internet <strong>depuis le tout début des années 2000</strong>.
+        Mais assez parlé de moi.
+      </p>
+
+      <p class="mt-4">
+        Si vous visitez cette page, c'est sûrement que vous avez besoin d'un
+        coup de main pour <strong>écrire ou réécrire</strong> des textes:
+      </p>
+
+      <ul class="my-4 ms-6 list-disc space-y-1">
+        <li>des <strong>pages pour votre site internet</strong></li>
+        <li>des <strong>emails pour votre marketing</strong> ou votre communication</li>
+        <li>un <strong>site à mieux classer</strong> dans Google</li>
+        <li>des <strong>publications sur les médias sociaux</strong></li>
+      </ul>
+
+      <h2 class="mt-10 text-2xl font-semibold tracking-wide">
+        Des textes clairs, utiles et plaisants
+      </h2>
+
+      <p class="mt-4">
+        Eh bien vous êtes au bon endroit! Ensemble, nous allons créer
+        <strong>des textes clairs, utiles et plaisants</strong>. Parce que
+        votre public et votre site internet le méritent.
+      </p>
+
+      <h3 class="mt-6 text-xl font-semibold">Des textes clairs</h3>
       <p class="mt-2">
-        Read the blog posts or check
-        <LinkButton
-          class="hover:text-accent underline decoration-dashed underline-offset-4"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
+        Votre site internet sert à <strong>transmettre des informations</strong>.
+        Appliquer l'écriture web, c'est chercher à renseigner efficacement
+        les visiteuses et les visiteurs. Vous devez leur offrir des textes
+        clairs, bien structurés et faciles à comprendre.
       </p>
+
+      <h3 class="mt-6 text-xl font-semibold">Des textes utiles</h3>
+      <p class="mt-2">
+        Les visiteuses et les visiteurs consultent votre site internet pour
+        une raison spécifique. Adopter l'écriture web, <strong>c'est leur
+        rendre service</strong> avec des textes qui leur donnent les
+        informations recherchées et facilitent leurs interactions.
+      </p>
+
+      <h3 class="mt-6 text-xl font-semibold">Des textes plaisants</h3>
+      <p class="mt-2">
+        N'oubliez pas: votre site internet est <strong>destiné à des êtres
+        humains</strong>. Penser selon les principes de l'écriture web, c'est
+        proposer des textes qui ne sont pas seulement efficaces et directs.
+        Ils doivent aussi toucher les émotions et procurer du plaisir à la
+        lecture.
+      </p>
+
+      <h2 class="mt-10 text-2xl font-semibold tracking-wide">
+        Écriture web, SEO et UX
+      </h2>
+
+      <p class="mt-4">
+        C'est quoi tous ces acronymes? Promis, je ne vais pas vous faire un
+        cours. Mais je vous dois quand même un minimum d'explications.
+      </p>
+
+      <p class="mt-2">
+        Je vous ai dit plus haut que penser l'écriture pour le web, c'était
+        rédiger des textes clairs, utiles et plaisants. C'est vrai, mais ça
+        ne s'arrête pas là.
+      </p>
+
+      <h3 class="mt-6 text-xl font-semibold">Écriture SEO</h3>
+      <p class="mt-2">
+        Vos textes ne serviront à rien si personne n'est sur votre site pour
+        les lire. Dans le travail de rédaction, je vais donc devoir optimiser
+        vos contenus pour qu'ils soient <strong>bien classés sur Google</strong>.
+        C'est ce qu'on appelle le SEO, pour Search Engine Optimization
+        (optimisation pour les moteurs de recherche).
+      </p>
+
+      <h3 class="mt-6 text-xl font-semibold">Écriture UX</h3>
+      <p class="mt-2">
+        Il y a une différence essentielle entre un texte imprimé et un texte
+        pour le web, c'est l'interactivité. Internet est un univers qu'on
+        traverse instantanément grâce à des liens. L'écriture web doit donc
+        traiter avec soin les portions du texte <strong>qui déclenchent des
+        interactions</strong>. Cet aspect touche à l'UX, pour User eXperience
+        (expérience utilisateur).
+      </p>
+        
       {
         socials.length > 0 && (
           <div class="mt-4 flex max-sm:flex-col sm:items-center">
