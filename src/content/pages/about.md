@@ -5,7 +5,7 @@ description: "Je m’appelle Romain Pittet. Je suis un spécialiste de la rédac
 
 **Je m’appelle Romain Pittet, mais ça vous le savez déjà. Je suis un spécialiste de la rédaction web, SEO et UX depuis presque 25 ans. Voici quelques mots sur mon parcours et mon expérience.**
 
-![J'écris n'importe où](/src/assets/images/romain-redaction-scooter.jpg)
+![J'écris n'importe où](@/assets/images/romain-redaction-scooter.jpg)
 
 Depuis tout petit, j’aime raconter des histoires. Ça m’a poussé à vouloir devenir avocat. Après ses études de droit, j’ai pourtant réalisé que ce métier n’est pas assez rigolo. Passionné par l’écriture, les gadgets électroniques et tout ce qui est visuel, de la BD à la photo en passant par les jeux vidéo, j’ai découvert en même temps **la communication et le web en 2002**, en rejoignant le Groupe GCOM.
 
