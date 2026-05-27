@@ -6,6 +6,7 @@ export default {
     posts: "Le blog",
     services: "Mes services",
     about: "A propos",
+    tags: "Tags",
     archives: "Archives",
     search: "Recherche",
   },
@@ -40,6 +41,9 @@ export default {
   pages: {
     servicesTitle: "Mes services",
     servicesDesc: "Tous les services proposés",
+
+    tagTitle: "Tag",
+    tagDesc: "Tous les articles avec le tag",
 
     tagsTitle: "Tags",
     tagsDesc: "Tous les tags utilisés dans les articles.",

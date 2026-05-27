@@ -4,8 +4,9 @@ export default {
   nav: {
     home: "Home",
     posts: "Posts",
-    tags: "Tags",
     about: "About",
+    services: "Services",
+    tags: "Tags",
     archives: "Archives",
     search: "Search",
   },
@@ -49,6 +50,9 @@ export default {
 
     archivesTitle: "Archives",
     archivesDesc: "All the articles I've archived.",
+
+    servicesTitle: "Services",
+    servicesDesc: "All the services I offer.",
 
     searchTitle: "Search",
     searchDesc: "Search any article ...",
