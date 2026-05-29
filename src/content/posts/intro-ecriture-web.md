@@ -2,7 +2,7 @@
 pubDatetime: 2026-05-29T15:11:53Z
 title: L'écriture web, c'est quoi au fond?
 slug: intro-ecriture-web
-featured: true
+featured: false
 draft: false
 tags:
   - Ecriture web
