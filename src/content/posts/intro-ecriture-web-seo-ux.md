@@ -38,7 +38,7 @@ En principe, vos textes seront lus par des êtres humains, pas des algorithmes. 
 
 Ces trois exigences sont un socle: essentiel, mais insuffisant. Parce qu’un texte excellent ne sert à rien si personne n’est là pour le lire.
 
-💡 Pour aller plus loin, lisez [Ecriture web: qu'est-ce que c'est au fond? (à venir)](https://www.notion.so/Intro-criture-web-SEO-UX-353ca3a2d0038083b9acfef830db3ca6?pvs=21)
+💡 Pour aller plus loin, lisez [Ecriture web: qu'est-ce que c'est au fond? (à venir)](#)
 
 ## Le SEO: écrire pour être trouvé
 
@@ -50,7 +50,7 @@ En fait, l’écriture SEO est une forme d’équilibre: il faut écrire **pour 
 
 Mais il faut savoir comment s'y prendre. Choisir les bons mots-clés, comprendre l'intention de recherche derrière une requête, construire une architecture de contenu cohérente: tout **un ensemble de compétences** qui demandent de la rigueur, mais qui s'apprennent.
 
-💡 Pour aller plus loin, lisez [Ecriture SEO: écrire pour Google et pour les humains (à venir)](https://www.notion.so/Intro-criture-web-SEO-UX-353ca3a2d0038083b9acfef830db3ca6?pvs=21)
+💡 Pour aller plus loin, lisez [Ecriture SEO: écrire pour Google et pour les humains (à venir)](#)
 
 ## L’écriture UX: rédiger pour l'interaction
 
@@ -60,7 +60,7 @@ L’écriture UX (pour User eXperience, ou expérience utilisateur en français)
 
 Ces microtextes semblent parfois anodins, mais c’est loin d’être le cas! U**n** mauvais libellé de bouton peut faire chuter un taux de conversion. Un message d'erreur mal formulé peut faire fuir un visiteur ou une visiteuse. Le UX writing consiste à **soigner les détails** qui font la différence entre un site qu'on utilise avec plaisir et un site qui énerve.
 
-💡 Pour aller plus loin, lisez [Ecriture UX: pour guider et faciliter les interactions sur le web (à venir)](https://www.notion.so/Intro-criture-web-SEO-UX-353ca3a2d0038083b9acfef830db3ca6?pvs=21)
+💡 Pour aller plus loin, lisez [Ecriture UX: pour guider et faciliter les interactions sur le web (à venir)](#)
 
 ### Trois dimensions essentielles
 
